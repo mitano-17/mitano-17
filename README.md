@@ -1,9 +1,9 @@
 <h1>mitano-17</h1>
 
-<h2>About Me</h2>
+<h2>👤 About Me 🪪</h2>
 <i>Kate Ermitano</i> | <i>Graduate student</i> | <i>De La Salle University</i> <br/>
 
-<h2>Description</h2>
+<h2>📑 Description 📓</h2>
 
 <table>
   <tr>
@@ -20,7 +20,7 @@
   </tr>
 </table> 
 
-<h2>Links</h2>
+<h2>🔗 Links 📧</h2>
  <table>
   <tr>
     <td>Email</td>
