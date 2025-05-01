@@ -1,4 +1,6 @@
 # mitano-17
+<img src="bouncey_birb.gif" width="20%">
+<i>Credit to Nebowskii</i>
 
 ## 👤 About Me 🪪 ## 
 *Kate Ermitano* | *Graduate student* | *De La Salle University* <br/>
