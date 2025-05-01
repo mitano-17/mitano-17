@@ -9,3 +9,21 @@
 ✈️I specialize in FGVC, specifically for aircraft families, models, and variations.<br/>
 
 <h2>Links</h2>
+ <table>
+  <tr>
+    <th>Social Media</th>
+    <th>URL</th>
+  </tr>
+  <tr>
+    <td>Email</td>
+    <td>ermitano_kate@protonmail.com</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>www.linkedin.com/in/mitano1017/</td>
+  </tr>
+   <tr>
+    <td>ResearchGate</td>
+    <td>www.researchgate.net/profile/Kate-Ermitano?ev=hdr_xprf</td>
+  </tr>
+</table> 
