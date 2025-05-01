@@ -4,16 +4,24 @@
 <i>Kate Ermitano</i> | <i>Graduate student</i> | <i></i> <br/>
 
 <h2>Description</h2>
-📝I do code and technical documentation.<br/>
-🖍I do illustrations and graphic design.<br/>
-✈️I specialize in FGVC, specifically for aircraft families, models, and variations.<br/>
+
+<table>
+  <tr>
+    <td>📝</td>
+    <td>I do code and technical documentation.</td>
+  </tr>
+  <tr>
+    <td>🖍</td>
+    <td>I do illustrations and graphic design.</td>
+  </tr>
+   <tr>
+    <td>✈️</td>
+    <td>I specialize in FGVC, specifically for aircraft families, models, and variations.</td>
+  </tr>
+</table> 
 
 <h2>Links</h2>
  <table>
-  <tr>
-    <th>Social Media</th>
-    <th>URL</th>
-  </tr>
   <tr>
     <td>Email</td>
     <td>ermitano_kate@protonmail.com</td>
