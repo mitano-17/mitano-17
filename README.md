@@ -1,5 +1,5 @@
 # mitano-17
-<img src="bouncey_birb.gif" width="20%">
+<img src="bouncey_birb.gif" width="30%">
 <i>Credit to Nebowskii</i>
 
 ## 👤 About Me 🪪 ## 
