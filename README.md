@@ -1,6 +1,6 @@
 # mitano-17
 ## 👤 About Me 🪪 ## 
-*Kate Ermitano* | *Graduate student* | *De La Salle University* <br/>
+*Kate Ermitano* | *Data Analyst Intern* | *De La Salle University* <br/>
 
 ## 📑 Description 📓 ## 
 
